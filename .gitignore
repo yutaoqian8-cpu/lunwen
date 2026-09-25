@@ -1,0 +1,16 @@
+# Credentials, local environments and user research files
+.env
+.env.*
+.streamlit/secrets.toml
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.pdf
+*.caj
+*.docx
+*.csv
+*.zip
+*.md.export
+.DS_Store
